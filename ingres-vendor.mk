@@ -631,6 +631,7 @@ PRODUCT_PACKAGES += \
     libsnpe_loader
 
 PRODUCT_VENDOR_PUBLIC_LIBRARIES += \
+    libmialgoengine.so \
     libsnpe_loader \
     libSNPE \
     libSnpeCpu \
